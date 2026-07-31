@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 学校からもらったExcel・出力した購入票（生徒の個人情報を含むため管理外）
+*.xlsx
+*.xlsm
+*.xls
+~$*
+
+# OS
+Thumbs.db
+.DS_Store
